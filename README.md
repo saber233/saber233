@@ -24,15 +24,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/mozillazg">
+<a href="https://github.com/saber233">
   <image width='38%' src="https://github-readme-stats.vercel.app/api?username=saber233&show_icons=true&include_all_commits=false&hide_border=true&hide=contribs&theme=vue" />
 </a>
-<a href="https://github.com/mozillazg">
+<a href="https://github.com/saber233">
   <image width='60%' src="https://cdn.jsdelivr.net/gh/saber233/saber233@github-contribution-grid-snake/github-contribution-grid-snake.svg" />
 </a>
     
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/saber233/saber233@github-contribution-grid-snake/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/saber233/saber233@github-contribution-grid-snake/github-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/saber233/saber233@github-contribution-grid-snake/github-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/saber233/saber233@github-contribution-grid-snake/github-snake-dark.svg" />
 </picture>
