@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/mozillazg">
   <image width='60%' src="https://cdn.jsdelivr.net/gh/saber233/saber233@github-contribution-grid-snake/github-contribution-grid-snake.svg" />
 </a>
-
+    
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/saber233/saber233@github-contribution-grid-snake/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/saber233/saber233@github-contribution-grid-snake/github-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/saber233/saber233@github-contribution-grid-snake/github-snake.svg" />
 </picture>
